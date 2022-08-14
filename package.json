@@ -54,7 +54,8 @@
     "react-router-dom": "5.3.3",
     "redux": "4.2.0",
     "regenerator-runtime": "0.13.9",
-    "axios": "0.26.1"
+    "axios": "0.21.1",
+    "webpack-cli": "4.10.0"
 
   },
   "devDependencies": {
